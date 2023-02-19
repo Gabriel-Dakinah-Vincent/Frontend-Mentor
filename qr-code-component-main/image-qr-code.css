@@ -1,0 +1,27 @@
+
+body {
+    background-color:hsl(212, 45%, 89%);
+}
+.qr-code-card {
+    margin:100px auto;
+    background-color:hsl(0, 0%, 100%);
+    border-style:none;
+    border-radius:25px;
+    width: 50%;
+}
+.container {
+    text-align:center;
+    padding:15px;
+}
+.container > h4 {
+    color:hsl(218, 44%, 22%);
+}
+img{
+    border-radius: 20px;
+}
+.attribution {
+    font-size:11px;text-align:center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
